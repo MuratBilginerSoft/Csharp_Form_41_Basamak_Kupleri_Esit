@@ -1,0 +1,14 @@
+C:\Users\murat\Desktop\ \6 C# 2012\Basamak Küpleri Eşit\Basamak Küpleri Eşit\bin\Debug\Basamak Küpleri Eşit.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Basamak Küpleri Eşit\Basamak Küpleri Eşit\bin\Debug\Basamak Küpleri Eşit.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak_Küpleri_Eşit.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak_Küpleri_Eşit.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak Küpleri Eşit.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2012\Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak Küpleri Eşit.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak Küpleri Eşit.pdb
+E:\04 - Yazılım\04 - Form Projeleri\94 Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak Küpleri Eşit.exe
+E:\04 - Yazılım\04 - Form Projeleri\94 Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak Küpleri Eşit.pdb
+E:\04 - Yazılım\04 - Form Projeleri\94 Basamak Küpleri Eşit\Basamak Küpleri Eşit\bin\Debug\Basamak Küpleri Eşit.exe
+E:\04 - Yazılım\04 - Form Projeleri\94 Basamak Küpleri Eşit\Basamak Küpleri Eşit\bin\Debug\Basamak Küpleri Eşit.pdb
+E:\04 - Yazılım\04 - Form Projeleri\94 Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak_Küpleri_Eşit.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\94 Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak_Küpleri_Eşit.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\94 Basamak Küpleri Eşit\Basamak Küpleri Eşit\obj\x86\Debug\Basamak Küpleri Eşit.csproj.GenerateResource.Cache
